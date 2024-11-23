@@ -1,0 +1,51 @@
+body {
+    background-color: #181818;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+
+  .nav1Color{
+    background-color:#00050d;
+  }
+  
+  .carousel-item img {
+    height: 500px;
+    object-fit: cover;
+  }
+
+  /* Nav Items */
+  #navItems:hover{
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+  }
+
+  .card-title {
+    font-size: 1.2rem;
+    color: #ffffff;
+  }
+
+  /* Watch Later Button */
+  #btn_wLater{
+    color: #ffffff;
+    font-size: 35px;
+    border-radius: 50%;
+  }
+
+  #btn_wLater:hover{
+    color: black;
+    background-color: white;
+    box-shadow: 0 40px 80px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  
